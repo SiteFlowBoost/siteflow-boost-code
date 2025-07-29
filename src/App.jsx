@@ -39,7 +39,7 @@ import {
   AlertCircle,
   Info
 } from 'lucide-react'
-import './App.css'
+import './index.css'
 
 // Dados de exemplo para os gráficos
 const trafficData = [
