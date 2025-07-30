@@ -1,7 +1,9 @@
 {
-  "name": "siteflow-boost-frontend",
-  "private": true,
-  "version": "0.0.0",
+  "name": "siteflow-boost",
+  "private": false,
+  "version": "1.0.0",
+  "description": "SiteFlow Boost - Plataforma de impulsionamento de tráfego por nicho",
+  "homepage": "https://siteflow-boost-code.vercel.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
